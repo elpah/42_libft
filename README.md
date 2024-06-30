@@ -8,18 +8,18 @@ At 42, the use of certain standard libraries is restricted in our projects. To a
 
 ### List of functions
 Libc functions | Additional functions | Other Functions
-:----------- | :-----------: | :-----------: | -----------:
-[ft_memset](#ft_memset)		|[ft_substr](#ft_substr)    | [ft_islower](#ft_islower) 
+:----------- | :-----------: | -----------:
+[ft_memset](#ft_memset)	    |[ft_substr](#ft_substr)    | [ft_islower](#ft_islower) 
 [ft_bzero](#ft_bzero)		|[ft_strjoin](#ft_strjoin)  | [ft_isupper](#ft_isupper) 
 [ft_memcpy](#ft_memcpy)		|[ft_strtrim](#ft_strjoin)  | 
 [ft_memccpy](#ft_memccpy)	|[ft_split](#ft_split)      | 
-[ft_memmove](#ft_memmove)	|[ft_itoa](#ft_itoa)       | 
+[ft_memmove](#ft_memmove)	|[ft_itoa](#ft_itoa)        | 
 [ft_memchr](#ft_memchr)		|[ft_strmapi](#ft_strmapi)  | 
-[ft_memcmp](#ft_memcmp)		|[ft_putchar_fd](#ft_putchar_fd)| 
-[ft_strlen](#ft_strlen)		|[ft_putstr_fd](#ft_putstr_fd)	| 
+[ft_memcmp](#ft_memcmp)     |[ft_putchar_fd](#ft_putchar_fd)| 
+[ft_strlen](#ft_strlen)		|[ft_putstr_fd](#ft_putstr_fd)  | 
 [ft_strdup](#ft_strdup)		|[ft_putendl_fd](#ft_putendl_fd)| 
-[ft_strcpy](#ft_strcpy)		|[ft_putnbr_fd](#ft_putnbr_fd)	|				| 
-[ft_strlcpy](#ft_strlcpy)	| 	|			| 
+[ft_strcpy](#ft_strcpy)     |[ft_putnbr_fd](#ft_putnbr_fd)  |
+[ft_strlcpy](#ft_strlcpy)	| 	|   | 
 [ft_strcat](#ft_strcat)		| 	| | 
 [ft_strlcat](#ft_strlcat)	| 	| | 
 [ft_strrchr](#ft_strrchr)	| 	| | 
