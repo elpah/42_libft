@@ -6,13 +6,14 @@
 /*   By: eobeng <eobeng@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/12 22:21:28 by eobeng            #+#    #+#             */
-/*   Updated: 2024/06/25 20:11:50 by eobeng           ###   ########.fr       */
+/*   Updated: 2024/06/27 18:01:43 by eobeng           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+#include <stdio.h>
 
-int	ft_atoi(char *str)
+int	ft_atoi(const char *str)
 {
 	int	i;
 	int	res;
